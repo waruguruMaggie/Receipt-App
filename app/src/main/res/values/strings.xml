@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Receipt-app-V2</string>
+    <string name="item">ITEM</string>
+    <string name="vat">VAT 16%</string>
+    <string name="actual_price">ACTUAL PRICE</string>
+    <string name="dummy_figure">100,000</string>
+    <string name="flour">FLOUR</string>
+    <string name="bread">BREAD</string>
+    <string name="grand_total">GRAND TOTAL</string>
+    <string name="discount">DISCOUNT 15%</string>
+    <string name="net_pay">NET PAY</string>
+    <string name="milk">MILK</string>
+    <string name="sugar">SUGAR</string>
+    <string name="price">PRICE</string>
+</resources>
